@@ -1,20 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=150&section=header"/>
 
-<br>
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=900&color=FA2A2A&random=false&width=435&lines=Hi%2C+I'm+L%C3%ADdia!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 </div>
 
-<br>
 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lidiaaacf&theme=shadow_red&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 </div>
 
-<br>
 
 <div align="center" >
   
@@ -35,6 +31,5 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=150&section=footer"/>
