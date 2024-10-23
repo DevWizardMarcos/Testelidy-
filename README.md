@@ -6,7 +6,7 @@
 
 <div align="center" >
   
- |[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaaacf&theme=midnight_purple)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaaacf&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+ |![](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaaacf&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaaacf&theme=midnight_purple)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
  | ----------- | ----------- |
 
  <hr/>
