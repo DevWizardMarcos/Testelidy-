@@ -1,6 +1,6 @@
 <div align="center">
 
-### Welcome to my Github, get confortable :)
+### Welcome to my Github, get comfortable :)
 
 <br/>
 
