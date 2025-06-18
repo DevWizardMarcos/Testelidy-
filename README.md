@@ -17,7 +17,7 @@
 <hr/>
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,express,vue,github,materialui,linux,vite,bootstrap,mongodb,python,arduino,azure,cs,dotnet,firebase,kali,mysql,powershell,pycharm,tensorflow,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,nodejs,cypress,vue,materialui,linux,python,arduino,azure,postgresql,selenium,java" />
 </a>
   <br />
   </div>
