@@ -1,7 +1,4 @@
 <div align="center">
-
-### Welcome to my Github, get comfortable :)
-
 <br/>
 
 <div align="center" >
