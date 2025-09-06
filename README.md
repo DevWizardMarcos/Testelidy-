@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td><img src="" height="auto" width= "auto"></td>
+    <td><img src="assets/banner2.webp" height="auto" width= "auto"></td>
     <td>
       <h3>Sobre mim</h3>
       Olá! Sou <strong>Marcos Simões</strong>,  monitor e desenvolvedor Full-Stack na Infinity School (Belo Horizonte).<br>
@@ -24,3 +24,13 @@
   </tr>
 </table>
 <hr/>
+
+
+
+<div align="center">
+<img width="800" height="600" alt="image" src="assets/banner3.webp" />
+
+</div>
+
+<hr>
+
